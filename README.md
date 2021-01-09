@@ -1,2 +1,3 @@
 # Data-Storage-App
-Buidling Data Storage Program
+Building Data Storage Program
+This application will help regular finance workers sort through data tables quickly.
